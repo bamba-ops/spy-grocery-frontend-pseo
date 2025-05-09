@@ -181,7 +181,7 @@
   
   // Navigation vers la page listing
   function navToListing() {
-    router.push('/listing')
+    window.location.href = 'https://spygrocery.com/listing'
   }
   </script>
   

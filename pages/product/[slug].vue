@@ -142,7 +142,7 @@
               </div>
 
               <a
-                href="/listing"
+                href="https://spygrocery.com/listing"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="block w-full bg-black text-white py-4 rounded-xl font-bold text-center hover:bg-gray-800 transition-colors"
@@ -185,7 +185,7 @@
               class="w-72 flex-shrink-0 bg-white rounded-xl p-4 shadow-md hover:shadow-lg transition-all"
             >
               <a
-                href="/listing"
+                href="https://spygrocery.com/listing"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="block relative group"
